@@ -1,4 +1,5 @@
 //Given an instance Circle of the following class:
+using System;
 
     public sealed class Circle
     {
