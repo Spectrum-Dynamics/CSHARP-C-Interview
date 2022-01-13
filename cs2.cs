@@ -1,6 +1,8 @@
 // Given a collection of  objects - aMyCollection. 
 //implement function printAllItemsToConsole
 //Print all elements without using foreach
+using System.Collections.Generic;
+
 public class Program
 {
 
